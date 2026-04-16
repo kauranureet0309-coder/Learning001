@@ -1,0 +1,11 @@
+# Logs
+*.log
+
+# Temporary files
+*.cache
+
+# PowerShell profile and generated state
+*.ps1xml
+
+# VS Code settings folder
+.vscode/
